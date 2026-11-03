@@ -41,25 +41,31 @@
     "showClose": true,
     "adList": [
       {
-        "preview": "https://play-lh.googleusercontent.com/1g98MAqAxCVng57WLrQpsZ4jr15tdyPPen9p4uQBg78dmvm9YwO6x4vHiuR57apK6_EO=w526-h296-rw",
-        "title": "Good new ! we added new app check it !",
+        "preview": "https://play-lh.googleusercontent.com/MaVk-6dKXG4CF3IhzRTz-NzwTUIUaRs0jNW0sXC3S1XkKGink8NKH2mnUABwMEOvdog4iF3hJiKRqjPbE1kDN9Q=w240-h480-rw",
+        "title": "Good new ! we added new app check it ! XXXTentacion",
         "button_title": "Install now",
-        "button_url": "https://play.google.com/store/apps/details?id=com.toregali.toreali.bouchinc"
+        "button_url": "https://play.google.com/store/apps/details?id=com.ahmed.amin.hugetech"
       },
       {
         "preview": "https://play-lh.googleusercontent.com/rv6JZWh2w58SKiS5XtyaHafvU-mdQWcVh4oor-oinzD_gWyo9lx7im4-0xaC6qLaWA=w526-h296-rw",
-        "title": "Good new ! we added new app check it !",
+        "title": "Good new ! we added new app check it ! LEO ROJAS",
         "button_title": "Install now",
         "button_url": "https://play.google.com/store/apps/details?id=com.leo.rojas2.hugetech"
+      },
+      {
+        "preview": "https://play-lh.googleusercontent.com/oijIbBADvXpi85bEYQOmVvuXRzTuxHPjCifnn2gM8DjMUd8AnRmWfKXF_dFjVV3_TcouAWY3z_tNQjY9dp_R=w526-h296-rw",
+        "title": "Good new ! we added new app check it ! BOB MARLEY",
+        "button_title": "Install now",
+        "button_url": "https://play.google.com/store/apps/details?id=com.toregali.toreali.bouchinc"
       }
     ]
   },
   
   "AppsPromote": [
     {
-      "name": "Bob Marley Offline",
-      "packageName": "com.toregali.toreali.bouchinc",
-      "icon": "https://play-lh.googleusercontent.com/d9rMA8e4ipIWJxMeUNySF-J2mmHXCVJ1Q3dJNIlFm8wYiSeaRyBJPLT1LzaQlujTL44=w240-h480-rw",
+      "name": "XXXTentacion - Offline",
+      "packageName": "com.ahmed.amin.hugetech",
+      "icon": "https://play-lh.googleusercontent.com/MaVk-6dKXG4CF3IhzRTz-NzwTUIUaRs0jNW0sXC3S1XkKGink8NKH2mnUABwMEOvdog4iF3hJiKRqjPbE1kDN9Q=w240-h480-rw",
       "download": "+500K"
     },
     {
@@ -67,6 +73,12 @@
       "packageName": "com.leo.rojas2.hugetech",
       "icon": "https://play-lh.googleusercontent.com/C8QlFWdkXcNRKmpK9wDgQNrVsFT1m_BZWr5OMwHkZl1HSlH6VO0u9-Z1XyPzBqGS0m0=w240-h480-rw",
       "download": "+550K"
+    },
+    {
+      "name": "Bob Marley Offline",
+      "packageName": "com.toregali.toreali.bouchinc",
+      "icon": "https://play-lh.googleusercontent.com/d9rMA8e4ipIWJxMeUNySF-J2mmHXCVJ1Q3dJNIlFm8wYiSeaRyBJPLT1LzaQlujTL44=w240-h480-rw",
+      "download": "+500K"
     }
   ]
   
